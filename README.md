@@ -1,2 +1,0 @@
-# cripto
-pagina web
